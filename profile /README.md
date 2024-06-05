@@ -5,7 +5,7 @@
 ## Contributor
 | Name | Learning Path | Github | LinkedIn |
 | :-- | :-- | :-- | :-- |
-| Farhan Faza Anwari | Mobile Development | [![GitHub] [github-shield]][github-faza] | [![Linkedin][linkedin-shield] ][linkedin-faza] |
+| Farhan Faza Anwari | Mobile Development | [![GitHub][github-shield]][github-faza] | [![Linkedin][linkedin-shield]][linkedin-faza] |
 
 
 ## Miscellaneous
